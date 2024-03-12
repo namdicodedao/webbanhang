@@ -5,4 +5,4 @@ define("PASS", "");
 define("DB", "webdienthoai");
 define("ROOT", dirname(__FILE__));
 define("BASE_URL", "");
-define("DB_SOCKET", "33060");
+define("DB_SOCKET", "3306");
